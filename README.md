@@ -1,6 +1,6 @@
 ## Olá! Eu sou Thalys Ravel 👋
 
-- **🎓 Estudante curso técnico em informática**
+- **🎓 Cursando Técnico em Informática**
 - **🚀 Estudando Desenvolvimento BackEnd**
 - **📫 Entre em contato:** contatothalysravel@gmail.com
 ## Linguagens e Ferramentas:
