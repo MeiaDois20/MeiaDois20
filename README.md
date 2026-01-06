@@ -2,7 +2,7 @@
 
 - **🎓 Cursando Técnico em Informática**
 - **🚀 Estudando Desenvolvimento BackEnd**
-- **📫 Entre em contato:** contatothalysravel@gmail.com
+- **📫 Entre em contato:** thalysravel42@gmail.com
 <h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
